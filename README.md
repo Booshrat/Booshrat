@@ -1,17 +1,15 @@
 ### Booshrat E Sharmin
 
-<table cellspacing="0" cellpadding="0">
- <tr >
- 
- <td><p align="left" height="100%" >
+<img align="right" width="300px" alt="Coding" style="margin-left:100px;" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" />
+
 Hi there and welcome to my GitHub profile! I'm a full-stack developer with a passion for building technology standard, scalable, and user-friendly web applications.
 I specialize in both front-end and back-end development, and have experience working with a variety of programming languages, frameworks, and technologies.
-  </p></td>
- <td><img align="right" alt="Coding" style="margin-left:100px;" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" alt="coding-gif" /> </td>
-  </tr>
-</table>
 
------------
+<br />
+<br />
+<br />
+
+#
 
 ### Languages and Tools
 
