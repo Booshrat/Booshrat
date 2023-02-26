@@ -18,7 +18,6 @@ I specialize in both front-end and back-end development, and have experience wor
 <img align="left" alt="GitHub" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <br />
-<br />
 <img align="left" alt="Bash" width="30px" style="padding:10px 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="JQuery" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
