@@ -6,11 +6,7 @@ Hi there and welcome to my GitHub profile! I'm a full-stack developer with a pas
 
 In my projects, I focus on creating clean and well-organized code that is easy to maintain and scale. I am committed to following best practices and keeping up with the latest industry trends to ensure that my work is of the highest quality. Take a look at my Github repositories to see examples of my work, and feel free to reach out if you have any questions or are interested in collaborating on a project.
 
-<br />
-<br />
-<br />
-
-#
+---
 
 ### Languages and Tools
 
