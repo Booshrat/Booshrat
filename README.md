@@ -8,7 +8,7 @@ I specialize in both front-end and back-end development, and have experience wor
 
 ### Languages and Tools
 
-
+<!-- <div style="display=grid;grid-coulumn-template="> -->
 <img align="left" alt="JavaScript" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -17,7 +17,6 @@ I specialize in both front-end and back-end development, and have experience wor
 <img align="left" alt="Git" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<br />
 <img align="left" alt="Bash" width="30px" style="padding:10px 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="JQuery" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
