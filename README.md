@@ -39,7 +39,7 @@ I specialize in both front-end and back-end development, and have experience wor
 
 
 ### Connect with me
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/booshrat/" target="blank">
+<a href="https://www.linkedin.com/in/booshrat/" target="blank">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/booshrat/" 
  width="30px" style="padding:10px 10px"/>
 </a>
