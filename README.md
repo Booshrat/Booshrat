@@ -2,7 +2,7 @@
 
 <img align="right" width="350px" alt="Coding" style="margin-left:100px;" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif" />
 
-Hi there and welcome to my GitHub profile! I'm a full-stack developer with a passion for building technology standard, scalable, and user-friendly web applications. I specialize in both front-end and back-end development, and have experience working with a variety of programming languages, frameworks, and technologies.
+Hi there and welcome to my GitHub profile! I'm a web developer with a passion for building technology standard, scalable, and user-friendly web applications. I specialize in both front-end and back-end development, and have experience working with a variety of programming languages, frameworks, and technologies.
 
 In my projects, I focus on creating clean and well-organized code that is easy to maintain and scale. I am committed to following best practices and keeping up with the latest industry trends to ensure that my work is of the highest quality.
 
