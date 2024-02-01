@@ -13,7 +13,7 @@ Take a look at my Github repositories to see examples of my work, and feel free 
 ### Technologies and Tools
 
 <!-- <div style="display=grid;grid-column-template="> -->
-<img align="left" alt="JavaScript" width="30px" style="padding:20px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -29,6 +29,7 @@ Take a look at my Github repositories to see examples of my work, and feel free 
 <img align="left" alt="MongoDB" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Flask" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<br />
 <img align="left" alt="Jest" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Pytest" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
