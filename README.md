@@ -10,13 +10,14 @@ Take a look at my Github repositories to see examples of my work, and feel free 
 
 ---
 
-### Languages and Tools
+### Technologies and Tools
 
-<!-- <div style="display=grid;grid-coulumn-template="> -->
+<!-- <div style="display=grid;grid-column-template="> -->
 <img align="left" alt="JavaScript" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -24,8 +25,13 @@ Take a look at my Github repositories to see examples of my work, and feel free 
 <img align="left" alt="Bash" width="30px" style="padding:10px 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="JQuery" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+<img align="left" alt="Postgresql" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
 <img align="left" alt="MongoDB" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Flask" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="Jest" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="Pytest" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
 <img align="left" alt="Atom" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
 <img align="left" alt="VS-Code" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <br />
