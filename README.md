@@ -29,7 +29,6 @@ Take a look at my Github repositories to see examples of my work, and feel free 
 <img alt="MongoDB" title="MongoDB" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img alt="Express" title="Express" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img alt="Flask" title="Flask" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<br />
 <img alt="Jest" title="Jest" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img alt="Pytest" title="Pytest" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
 <img alt="Docker" title="Docker" width="30px" style="padding:10px 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
