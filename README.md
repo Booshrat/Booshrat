@@ -24,7 +24,6 @@ Take a look at my Github repositories to see examples of my work, and feel free 
  <img alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:7px; margin: 10px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
  <img alt="Bash" title="Bash" width="30px" style="padding-right:7px; margin: 10px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
  <img alt="Redux" title="Redux" width="30px" style="padding-right:7px; margin: 10px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img alt="JQuery" title="JQuery" width="30px" style="padding-right:7px; margin: 10px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
  <img alt="Postgresql" title="Postgresql" width="30px" style="padding-right:7px; margin: 10px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
  <img alt="MongoDB" title="MongoDB" width="30px" style="padding-right:7px; margin: 10px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  <img alt="Express" title="Express" width="30px" style="padding-right:7px; margin: 10px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
